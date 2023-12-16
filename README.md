@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%">
 
-<!--
-**sandeep27choudhary/sandeep27choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a passionate Full-Stack Developer who loves to build and deploy amazing applications. I specialize in <b>React</b> and <b>Node.js</b>, with a keen interest in <b>DevOps</b> to streamline the development lifecycle.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbox
+
+<img align="right" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50%">
+
+#### 👨‍💻 Programming Languages and Frameworks
+
+```text
+React.js           ████████████████░░░░   75%
+Node.js            ████████████████░░░░   75%
+JavaScript         ██████████████████░░░   80%
+HTML5/CSS3/SASS    ██████████████░░░░░░   65%
+Docker             █████████████░░░░░░░   60%
+Kubernetes         ████████████░░░░░░░░   55%
+GitHub Actions     ██████████████░░░░░░   65%
+CI/CD Pipelines    █████████████░░░░░░░   60%
+MongoDB            ████████████░░░░░░░░   55%
+MySQL              ███████████░░░░░░░░░   50%
+AWS                ████████████░░░░░░░░   55%
+Heroku             █████████████░░░░░░░   60%
+DigitalOcean       ██████████░░░░░░░░░░   50%
