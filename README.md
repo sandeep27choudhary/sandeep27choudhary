@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a DevOps Engineer with keen interest in Mob/Web Application development and latest technologies
+I'm a DevOps Engineer with keen interest in Mob/Web Application development and latest technologies. I know how to do multiple things by using google search and of-course chatgpt. In world of AI I still like  books, pencil & paper.
 
 
 ## 🌐 Socials:
